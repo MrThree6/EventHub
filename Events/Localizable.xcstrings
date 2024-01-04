@@ -1,0 +1,599 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "[Forgot password ?](link)" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "[هل نسيت كلمة المرور؟](رابط)"
+          }
+        }
+      }
+    },
+    "%@" : {
+
+    },
+    "%@SR" : {
+
+    },
+    "Action Successful" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الإجراء ناجح\n"
+          }
+        }
+      }
+    },
+    "Add Event" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة الفعاليات"
+          }
+        }
+      }
+    },
+    "Add events" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إضافة الفعاليات"
+          }
+        }
+      }
+    },
+    "Book" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الحجز"
+          }
+        }
+      }
+    },
+    "Booking Date:" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تاريخ الحجز:"
+          }
+        }
+      }
+    },
+    "Booking Successful" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تم الحجز بنجاح"
+          }
+        }
+      }
+    },
+    "Card Number" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رقم البطاقة"
+          }
+        }
+      }
+    },
+    "Categories" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فئات"
+          }
+        }
+      }
+    },
+    "Create your Account" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أنشئ حسابك"
+          }
+        }
+      }
+    },
+    "CVV" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CVV"
+          }
+        }
+      }
+    },
+    "Dark Mode" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الوضع المظلم"
+          }
+        }
+      }
+    },
+    "Don’t have an account?" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ليس لديك حساب؟"
+          }
+        }
+      }
+    },
+    "English" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عربي"
+          }
+        }
+      }
+    },
+    "Enter Image Url" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل عنوان URL للصورة\n"
+          }
+        }
+      }
+    },
+    "Enter your Category" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل الفئة الخاصة"
+          }
+        }
+      }
+    },
+    "Enter your city" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل مدينتك"
+          }
+        }
+      }
+    },
+    "Enter your date" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل التاريخ الخاص"
+          }
+        }
+      }
+    },
+    "Enter your Description" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل الوصف الخاص"
+          }
+        }
+      }
+    },
+    "Enter your Email" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل بريدك الإلكتروني\n"
+          }
+        }
+      }
+    },
+    "Enter your event name" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل اسم الحدث الخاص"
+          }
+        }
+      }
+    },
+    "Enter your Password" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ادخل رقمك السري"
+          }
+        }
+      }
+    },
+    "Enter your price" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أدخل السعر الخاص"
+          }
+        }
+      }
+    },
+    "Event Details" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفاصيل الفعالية"
+          }
+        }
+      }
+    },
+    "Event Name:" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اسم الفعالية:"
+          }
+        }
+      }
+    },
+    "EventHub" : {
+
+    },
+    "Events" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الفعاليات"
+          }
+        }
+      }
+    },
+    "Explore" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "استكشف"
+          }
+        }
+      }
+    },
+    "Faviourts" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مفضل"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favourite"
+          }
+        }
+      }
+    },
+    "Favourite" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مفضل"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favourite"
+          }
+        }
+      }
+    },
+    "Find an event" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ابحث عن الفعاليات"
+          }
+        }
+      }
+    },
+    "Hello, world!" : {
+
+    },
+    "Home" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "رئيسية"
+          }
+        }
+      }
+    },
+    "Key" : {
+      "extractionState" : "manual"
+    },
+    "latitude" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خط العرض"
+          }
+        }
+      }
+    },
+    "logout" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسجيل خروج"
+          }
+        }
+      }
+    },
+    "longitude" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "خط الطول"
+          }
+        }
+      }
+    },
+    "My Profile" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ملفي"
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اسم"
+          }
+        }
+      }
+    },
+    "Next" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التالي"
+          }
+        }
+      }
+    },
+    "Organizer Account" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حساب المنظم"
+          }
+        }
+      }
+    },
+    "Pay" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يدفع"
+          }
+        }
+      }
+    },
+    "Payment" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "دفع"
+          }
+        }
+      }
+    },
+    "Profile" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حساب"
+          }
+        }
+      }
+    },
+    "Search" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "بحث"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إعدادات"
+          }
+        }
+      }
+    },
+    "Sign in to your account by entering Email and Password" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قم بتسجيل الدخول إلى حسابك عن طريق إدخال البريد الإلكتروني وكلمة المرور"
+          }
+        }
+      }
+    },
+    "SignUp" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سجيل دخول"
+          }
+        }
+      }
+    },
+    "Skip" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يتخطى"
+          }
+        }
+      }
+    },
+    "Summary" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ملخص"
+          }
+        }
+      }
+    },
+    "TestTitle" : {
+
+    },
+    "Ticket Details" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تفاصيل التذكرة"
+          }
+        }
+      }
+    },
+    "Ticket ID" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معرف التذكرة"
+          }
+        }
+      }
+    },
+    "Ticket ID:" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معرف التذكرة:"
+          }
+        }
+      }
+    },
+    "Tickets" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التذاكر"
+          }
+        }
+      }
+    },
+    "Time From" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الوقت من"
+          }
+        }
+      }
+    },
+    "Time To" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "إلى"
+          }
+        }
+      }
+    },
+    "Trending Events" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الفعاليات الواردة"
+          }
+        }
+      }
+    },
+    "User ID" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "معرف المستخدم"
+          }
+        }
+      }
+    },
+    "Welcome to EventHub" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "مرحبًا بك في EventHub\n"
+          }
+        }
+      }
+    },
+    "Y/M" : {
+
+    }
+  },
+  "version" : "1.0"
+}
